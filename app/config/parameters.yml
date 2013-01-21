@@ -1,0 +1,14 @@
+parameters:
+  database_driver: pdo_mysql
+  database_host: 127.0.0.1
+  database_port: null
+  database_name: ziki-development
+  database_user: root
+  database_password: blank
+  mailer_transport: smtp
+  mailer_host: 127.0.0.1
+  mailer_user: null
+  mailer_password: null
+  locale: en
+  secret: 35ee2ad7f151d0285935bcfeae29770172868ce0
+  database_path: null
